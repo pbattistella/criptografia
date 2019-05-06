@@ -1,0 +1,5 @@
+<resources>
+    <string name="mensagem">Mensagem</string>
+    <string name="criptografar">Criptografar</string>
+    <string name="mensagemCripto">Mensagem Criptografada</string>
+</resources>
